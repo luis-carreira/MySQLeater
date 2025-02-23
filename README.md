@@ -16,4 +16,10 @@ The steps performed are the following:
 The scripts are separted by funtionality and maybe be used or edited for other applications, like creating backups or compress and send files
 over SSH.
 
+How to use:
+Change mysql credentials on the sql2csv Python Script.
+Change SSH/SCP parameters accordingly on the sftp Python Script.
+Copy/clone the whole directory somewhere on the target machine.
+Run deploy.sh as root user (not sudo) and wait until it's finished.
+
 I hope you have fun like I did creating this 😄
