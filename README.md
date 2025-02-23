@@ -1,4 +1,5 @@
 DISCLAIMER #1: For educational purposes only! Root acess to database and Linux system is required anyway.
+
 DISCLAIMER #2: Not for noobs. Do not use if you are not familiar with SQL databases, Bash, Python and Debian. 
 
 Always test against a virtual environment first!!!
